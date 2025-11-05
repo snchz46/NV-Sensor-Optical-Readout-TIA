@@ -1,4 +1,4 @@
-# NV-Optical-Readout-TIA
+# NV-Sensor-Optical-Readout-TIA
 
 Development of an optical NV-diamond fluorescence sensing platform using a BPW34 photodiode and MCP607 transimpedance amplifier (TIA), read out by either the ESP32 internal ADC or an external 16-bit ADS1115.
 
